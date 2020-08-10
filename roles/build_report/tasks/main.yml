@@ -29,7 +29,7 @@
   become: yes
   template:
     src: report.j2
-    dest: "{{ file_path }}/index.html"
+    dest: "{{ file_path }}index.html"
 
 - name: copy CSS over
   become: yes
