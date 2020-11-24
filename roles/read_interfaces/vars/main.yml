@@ -1,1 +1,1 @@
-network_resources: "interfaces,l3_interfaces"
+network_resources: "vlans"
