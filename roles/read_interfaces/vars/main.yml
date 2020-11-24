@@ -1,1 +1,1 @@
-network_resources: "interfaces,l2_interfaces,l3_interfaces,lacp,lacp_interfaces,lag_interfaces,lldp_global,lldp_interfaces,vlans"
+network_resources: "vlans"
